@@ -3,17 +3,22 @@
 **[CONTACT](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact)
 
 ## Kea's Robotics/Engineering Portfolio
-The University of Tennessee Knoxville 2019 B.S. Mechanical Engineering 
 
 I love robotics!
 
 ### Projects:
 #### * Autonomous TrashCan
+
 #### * Autonomous Lawnmower
+
 #### * RAPIRO: Autonomous Teaching Robot
+
 #### * Mechatronic Final Project
+
 #### * Robot Area Computerized Maintenance Management System and Parts List
+
 #### * NASA Ice Challenge Robot
+
 
 You can use the [editor on GitHub](https://github.com/kfrancis01/Portfolio_KeaFrancis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
