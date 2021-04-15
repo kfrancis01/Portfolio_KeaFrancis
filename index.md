@@ -13,7 +13,9 @@ I love robotics!
 
 #### * RAPIRO: Autonomous Teaching Robot
 ![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png)
-
+![image1](RAPIRO.png)
+![image2](/RAPIRO.png)
+![](/RAPIRO.png)
 #### * Mechatronic Final Project
 
 #### * Robot Area Computerized Maintenance Management System and Parts List
