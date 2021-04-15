@@ -1,3 +1,7 @@
+
+**[ABOUT ME](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About)
+**[CONTACT](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact)
+
 ## Kea's Robotics/Engineering Portfolio
 The University of Tennessee Knoxville 2019 B.S. Mechanical Engineering 
 
