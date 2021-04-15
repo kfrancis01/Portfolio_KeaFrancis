@@ -1,3 +1,5 @@
+The University of Tennessee Knoxville | 2019 | B.S. Mechanical Engineering
+
 ## Who Am I?
 
 <p> Hello who ever may be reading this! My name is Kea Francis. I'm just a robotics enthusiast
