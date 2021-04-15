@@ -10,7 +10,10 @@ I love robotics!
 ### Projects:
 #### * Autonomous TrashCan
 #### * Autonomous Lawnmower
-#### * 
+#### * RAPIRO: Autonomous Teaching Robot
+#### * Mechatronic Final Project
+#### * Robot Area Computerized Maintenance Management System and Parts List
+#### * NASA Ice Challenge Robot
 
 You can use the [editor on GitHub](https://github.com/kfrancis01/Portfolio_KeaFrancis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
