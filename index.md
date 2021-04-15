@@ -12,6 +12,7 @@ I love robotics!
 #### * Autonomous Lawnmower
 
 #### * RAPIRO: Autonomous Teaching Robot
+![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png)
 
 #### * Mechatronic Final Project
 
