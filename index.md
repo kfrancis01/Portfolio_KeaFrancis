@@ -16,29 +16,30 @@ Just click on the picture and you will be provided with a project description al
 <br/>
 <h4>* Autonomous TrashCan (In Progress)</h4> <br />
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/><br/>
-![image]
+![image]()<br/>
 
-####  * CleanRobotics TrashBot (Former Robotics Engineer) #### <br/>
+<h4> * CleanRobotics TrashBot (Former Robotics Engineer) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
-![image]()
+![image]()<br/>
 
-#### * Autonomous Lawnmower (Completed) #### <br/>
+<h4> * Autonomous Lawnmower (Completed) </h4> <br/>
 [{Project Page}]() <br/>
 
 
-#### * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
+<h4> * RAPIRO: Autonomous Teaching Robot (Completed) </h4><br/>
 [{Project Page}]() <br/><br/>
 ![image](RAPIRO.PNG) <br/>
+<p><img src = "RAPIRO.PNG" alt = "foo"/></p>
 
-#### * Mechatronic Final Project (Completed) <br/>
+<h4> * Mechatronic Final Project (Completed) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech) <br/>
 
 
-#### * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
+<h4> * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)<br/><br/>
 ![image](Dal_Tile CMMS.PNG)
 
-#### * NASA Ice Challenge Robot (Completed) <br/>
+<h4> * NASA Ice Challenge Robot (Completed) </h4><br/>
 [{Project Page}]() <br/>
 
 
