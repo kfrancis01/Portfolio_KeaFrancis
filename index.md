@@ -14,16 +14,21 @@ Just click on the picture and you will be provided with a project description al
 
 ### Projects: <br/>
  #### * Autonomous TrashCan (In Progress) <br />
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/>
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/><br/>
+![image]
+
  #### * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/>
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
+![image]
+
  #### * Autonomous Lawnmower (Completed) <br/>
 [{Project Page}]() <br/>
+
  #### * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
-![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png) <br/>
-![image1](RAPIRO.png)
-![image2](/RAPIRO.png)
-![](/RAPIRO.png)
+[{Project Page}]() <br/>
+
+![image](RAPIRO.PNG) <br/>
+
  #### * Mechatronic Final Project (Completed) <br/>
 [{Project Page}]() <br/>
  #### * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
