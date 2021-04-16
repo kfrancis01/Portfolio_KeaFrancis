@@ -6,26 +6,26 @@
 
 <p> Hello there! <p>
 <p> I am a Junior Robotics Engineer attempting to change the world for the better with robotics. 
-  I love working on both group and individual robotics projects. This portfolio is a summary of some of the projects I have worked on in the past. 
+I love working on both group and individual robotics projects. This portfolio is a summary of some of the projects I have worked on in the past. 
 Just click on the picture and you will be provided with a project description along with a link to the GitHub repository it is associated with. <p>
 
 
 ### Projects:
- * Autonomous TrashCan (In Progress)
-
- * Autonomous Lawnmower (Completed)
-
- * RAPIRO: Autonomous Teaching Robot
+ * Autonomous TrashCan (In Progress) <br />
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan)
+ * Autonomous Lawnmower (Completed) <br />
+[{Project Page}]()
+ * RAPIRO: Autonomous Teaching Robot (Completed) <br />
 ![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png)
 ![image1](RAPIRO.png)
 ![image2](/RAPIRO.png)
 ![](/RAPIRO.png)
- * Mechatronic Final Project (Completed)
-
- * Robot Area Computerized Maintenance Management System and Parts List
-
- * NASA Ice Challenge Robot
-
+ * Mechatronic Final Project (Completed) <br />
+[{Project Page}]()
+ * Robot Area Computerized Maintenance Management System and Parts List (Completed-ish) <br />
+[{Project Page}]()
+ * NASA Ice Challenge Robot (Completed) <br />
+[{Project Page}]()
 
 
 ```
