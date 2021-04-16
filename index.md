@@ -4,7 +4,7 @@
 [{COLLABORATE}](keamfrancis96@gmail.com) / 
 [{BLOG}]() / 
 
-## Kea's Robotics/Engineering Portfolio
+## Kea's Robotics/Engineering Portfolio ##
 
 <p> Hello there! <p>
 <p> I am a Junior Robotics Engineer attempting to change the world for the better with robotics. 
@@ -12,16 +12,16 @@ I love working on both group and individual robotics projects. This portfolio is
 Just click on the picture and you will be provided with a project description along with a link to the GitHub repository it is associated with. <p>
 
 
-###  Projects: <br/>
+##  Projects: <br/>
 ####  * Autonomous TrashCan (In Progress) <br />
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/><br/>
 ![image]
 
-####  * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
+####  * CleanRobotics TrashBot (Former Robotics Engineer) #### <br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
 ![image]()
 
-#### * Autonomous Lawnmower (Completed) <br/>
+#### * Autonomous Lawnmower (Completed) #### <br/>
 [{Project Page}]() <br/>
 
 
