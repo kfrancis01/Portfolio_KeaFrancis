@@ -15,33 +15,35 @@ Just click on the picture and you will be provided with a project description al
 <h3>Projects:</h3> 
 <br/>
 <h4>* Autonomous TrashCan (In Progress)</h4> <br />
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/><br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan">{Project Page}</a></p>
 ![image]()<br/>
 
 <h4> * CleanRobotics TrashBot (Former Robotics Engineer) </h4><br/>
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
 <p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics">{Project Page}</a></p>
 ![image]()<br/>
 
 <h4> * Autonomous Lawnmower (Completed) </h4> <br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Lawn Mower">{Project Page}</a></p>
 [{Project Page}]() <br/>
 
-
 <h4> * RAPIRO: Autonomous Teaching Robot (Completed) </h4><br/>
-[{Project Page}]() <br/><br/>
-![image](RAPIRO.PNG) <br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/RAPIRO">{Project Page}</a></p>
 <p><img src = "RAPIRO.PNG" alt = "foo"/></p>
 
 <h4> * Mechatronic Final Project (Completed) </h4><br/>
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech) <br/>
 <p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech">{Project Page}</a></p>
+<p><img src = "mech_final.PNG" alt = "foo"/></p>
 
 <h4> * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) </h4><br/>
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)<br/><br/>
-![image](Dal_Tile CMMS.PNG)
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS">{Project Page}</a></p>
+<p><img src = "Dal_Tile CMMS.PNG" alt = "foo"/></p>
 
 <h4> * NASA Ice Challenge Robot (Completed) </h4><br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/NASA">{Project Page}</a></p>
 [{Project Page}]() <br/>
+
+<h4> * MRI Compatible Robot (Completed </h4><br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/MRI">{Project Page}</a></p>
 
 
 ```
