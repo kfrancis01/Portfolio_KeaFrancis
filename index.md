@@ -20,6 +20,7 @@ Just click on the picture and you will be provided with a project description al
 
 <h4> * CleanRobotics TrashBot (Former Robotics Engineer) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics">{Project Page}</a></p>
 ![image]()<br/>
 
 <h4> * Autonomous Lawnmower (Completed) </h4> <br/>
@@ -33,7 +34,7 @@ Just click on the picture and you will be provided with a project description al
 
 <h4> * Mechatronic Final Project (Completed) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech) <br/>
-
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech">{Project Page}</a></p>
 
 <h4> * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) </h4><br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)<br/><br/>
