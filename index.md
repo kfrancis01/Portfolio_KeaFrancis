@@ -1,52 +1,35 @@
 
-**[ABOUT ME](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About)
-**[CONTACT](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact)
+[[ABOUT ME]](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About)
+[[CONTACT]](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact)
 
 ## Kea's Robotics/Engineering Portfolio
 
-I love robotics!
+<p> Hello there! <p>
+<p> I am a Junior Robotics Engineer attempting to change the world for the better with robotics. 
+  I love working on both group and individual robotics projects. This portfolio is a summary of some of the projects I have worked on in the past. 
+Just click on the picture and you will be provided with a project description along with a link to the GitHub repository it is associated with. <p>
+
 
 ### Projects:
-#### * Autonomous TrashCan
+ * Autonomous TrashCan (In Progress)
 
-#### * Autonomous Lawnmower
+ * Autonomous Lawnmower (Completed)
 
-#### * RAPIRO: Autonomous Teaching Robot
+ * RAPIRO: Autonomous Teaching Robot
 ![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png)
 ![image1](RAPIRO.png)
 ![image2](/RAPIRO.png)
 ![](/RAPIRO.png)
-#### * Mechatronic Final Project
+ * Mechatronic Final Project (Completed)
 
-#### * Robot Area Computerized Maintenance Management System and Parts List
+ * Robot Area Computerized Maintenance Management System and Parts List
 
-#### * NASA Ice Challenge Robot
+ * NASA Ice Challenge Robot
 
 
-You can use the [editor on GitHub](https://github.com/kfrancis01/Portfolio_KeaFrancis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
