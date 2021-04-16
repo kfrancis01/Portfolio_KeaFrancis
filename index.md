@@ -12,7 +12,8 @@ I love working on both group and individual robotics projects. This portfolio is
 Just click on the picture and you will be provided with a project description along with a link to the GitHub repository it is associated with. <p>
 
 
-##  Projects: <br/>
+##  Projects: 
+<br/>
 ####  * Autonomous TrashCan (In Progress) <br />
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/><br/>
 ![image]
