@@ -1,8 +1,8 @@
 
-[{ABOUT ME}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About) /
-[{CONTACT}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact) /
-[{COLLABORATE}](keamfrancis96@gmail.com) /
-[{BLOG}]() /
+[{ABOUT ME}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About) / 
+[{CONTACT}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact) / 
+[{COLLABORATE}](keamfrancis96@gmail.com) / 
+[{BLOG}]() / 
 
 ## Kea's Robotics/Engineering Portfolio
 
@@ -12,23 +12,23 @@ I love working on both group and individual robotics projects. This portfolio is
 Just click on the picture and you will be provided with a project description along with a link to the GitHub repository it is associated with. <p>
 
 
-### Projects:
+### Projects: <br/>
  * Autonomous TrashCan (In Progress) <br />
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan)
- * CleanRobotics TrashBot (Former Robotics Engineer) <br />
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics)
- * Autonomous Lawnmower (Completed) <br />
-[{Project Page}]()
- * RAPIRO: Autonomous Teaching Robot (Completed) <br />
-![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png)
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/>
+ * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/>
+ * Autonomous Lawnmower (Completed) <br/>
+[{Project Page}]() <br/>
+ * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
+![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png) <br/>
 ![image1](RAPIRO.png)
 ![image2](/RAPIRO.png)
 ![](/RAPIRO.png)
- * Mechatronic Final Project (Completed) <br />
-[{Project Page}]()
- * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br />
+ * Mechatronic Final Project (Completed) <br/>
+[{Project Page}]() <br/>
+ * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)
- * NASA Ice Challenge Robot (Completed) <br />
+ * NASA Ice Challenge Robot (Completed) <br/>
 [{Project Page}]()
 
 
