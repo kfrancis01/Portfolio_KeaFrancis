@@ -1,6 +1,8 @@
 
-[[ABOUT ME]](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About)
-[[CONTACT]](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact)
+[{ABOUT ME}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About) |
+[{CONTACT}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact) |
+[{COLLABORATE}](keamfrancis96@gmail.com) |
+[{BLOG}]() |
 
 ## Kea's Robotics/Engineering Portfolio
 
@@ -24,20 +26,14 @@ Just click on the picture and you will be provided with a project description al
 ![](/RAPIRO.png)
  * Mechatronic Final Project (Completed) <br />
 [{Project Page}]()
- * Robot Area Computerized Maintenance Management System and Parts List (Completed-ish) <br />
-[{Project Page}]()
+ * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br />
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)
  * NASA Ice Challenge Robot (Completed) <br />
 [{Project Page}]()
 
 
 ```
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kfrancis01/Portfolio_KeaFrancis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
