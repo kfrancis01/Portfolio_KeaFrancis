@@ -13,28 +13,27 @@ Just click on the picture and you will be provided with a project description al
 
 
 ### Projects: <br/>
- * Autonomous TrashCan (In Progress) <br />
+ #### * Autonomous TrashCan (In Progress) <br />
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan) <br/>
- * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
+ #### * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/>
- * Autonomous Lawnmower (Completed) <br/>
+ #### * Autonomous Lawnmower (Completed) <br/>
 [{Project Page}]() <br/>
- * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
+ #### * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
 ![image](C:\Users\keane\Pictures\Saved Pictures\RAPIRO.png) <br/>
 ![image1](RAPIRO.png)
 ![image2](/RAPIRO.png)
 ![](/RAPIRO.png)
- * Mechatronic Final Project (Completed) <br/>
+ #### * Mechatronic Final Project (Completed) <br/>
 [{Project Page}]() <br/>
- * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
+ #### * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)
- * NASA Ice Challenge Robot (Completed) <br/>
-[{Project Page}]()
+ #### * NASA Ice Challenge Robot (Completed) <br/>
+[{Project Page}]() <br/>
 
 
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
