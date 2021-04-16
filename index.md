@@ -1,8 +1,8 @@
 
-[{ABOUT ME}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About) |
-[{CONTACT}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact) |
-[{COLLABORATE}](keamfrancis96@gmail.com) |
-[{BLOG}]() |
+[{ABOUT ME}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/About) /
+[{CONTACT}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Contact) /
+[{COLLABORATE}](keamfrancis96@gmail.com) /
+[{BLOG}]() /
 
 ## Kea's Robotics/Engineering Portfolio
 
