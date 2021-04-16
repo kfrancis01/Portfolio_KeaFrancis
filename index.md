@@ -13,6 +13,8 @@ Just click on the picture and you will be provided with a project description al
 ### Projects:
  * Autonomous TrashCan (In Progress) <br />
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Autonomous_TrashCan)
+ * CleanRobotics TrashBot (Former Robotics Engineer) <br />
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics)
  * Autonomous Lawnmower (Completed) <br />
 [{Project Page}]()
  * RAPIRO: Autonomous Teaching Robot (Completed) <br />
