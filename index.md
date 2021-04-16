@@ -19,20 +19,24 @@ Just click on the picture and you will be provided with a project description al
 
  #### * CleanRobotics TrashBot (Former Robotics Engineer) <br/>
 [{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CleanRobotics) <br/><br/>
-![image]
+![image]()
 
  #### * Autonomous Lawnmower (Completed) <br/>
 [{Project Page}]() <br/>
 
- #### * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
-[{Project Page}]() <br/>
 
+ #### * RAPIRO: Autonomous Teaching Robot (Completed) <br/>
+[{Project Page}]() <br/><br/>
 ![image](RAPIRO.PNG) <br/>
 
  #### * Mechatronic Final Project (Completed) <br/>
-[{Project Page}]() <br/>
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/Mech) <br/>
+
+
  #### * Dal-Tile Robot Area Computerized Maintenance Management System and Parts List (Former Employee | Completed-ish) <br/>
-[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)
+[{Project Page}](https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/CMMS)<br/><br/>
+![image](Dal_Tile CMMS.PNG)
+
  #### * NASA Ice Challenge Robot (Completed) <br/>
 [{Project Page}]() <br/>
 
