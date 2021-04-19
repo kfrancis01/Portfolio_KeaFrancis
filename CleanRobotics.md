@@ -11,7 +11,7 @@
 <p>* GitHub </p>
 
 <h2> Personal Role/ Contributions</h2>
-* Remote Reset Feature </br>
+* Remote Reset Feature
   <p>Allow user to reset Particle while there is a WiFi connection<p>
   
 * UART Connection
