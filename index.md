@@ -26,7 +26,7 @@ Just click on the Project Page hyperlink and you will be provided with a project
 <p><img src = "lawnmower.PNG" alt = "foo"/></p>
 
 <h3> * RAPIRO: Autonomous Teaching Robot (Completed) </h3>
-<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/RAPIRO">{Project Page}</a></p>
+<p><a href="https://kfrancis01.github.io/Portfolio_KeaFrancis.github.io/RAPIRO face.PNG">{Project Page}</a></p>
 <p><img src = "RAPIRO.PNG" alt = "foo"/></p>
 
 <h3> * Mechatronic Final Project (Completed) </h3>
