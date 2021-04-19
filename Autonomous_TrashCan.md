@@ -1,5 +1,7 @@
 
-<h1>Autonomous Trash Can</h1></br>
+<h1>Autonomous Trash Can</h1>
+<p><a href="https://github.com/kfrancis01/Trash-Schedule">https://github.com/kfrancis01/Trash-Schedule</a></p>
+
 <h2> Project Description:</h2>
 
 <p>This is a personal project that extended from the team attempt to make an
@@ -18,8 +20,8 @@ the motors once it got a reading from another sensor, and have the motors move a
 the limit switches were no longer triggered.
 We unexpectedly ran into an issue with the tires we originally selected. They worked well
 on smooth surfaces but had trouble on carpet. A correction we would have liked to make was getting more robust treaded tires.<p>
-  
-<p><a href="(https://github.com/kfrancis01/Mechatronics)">https://github.com/kfrancis01/Mechatronics</a></p>
+ 
+<p><a href="https://github.com/kfrancis01/Mechatronics">https://github.com/kfrancis01/Mechatronics</a></p>
   
 <h2> Project Pieces:</h2>
 
@@ -36,4 +38,3 @@ on smooth surfaces but had trouble on carpet. A correction we would have liked t
 <h4> Project V:</h4> Design an Android app that can communicate with the device to schedule trash pick up dates.
 
 <p><a href="https://github.com/kfrancis01/GUI-Controlled-Motor">https://github.com/kfrancis01/GUI-Controlled-Motor</a></p>
-(https://github.com/kfrancis01/GUI-Controlled-Motor)
