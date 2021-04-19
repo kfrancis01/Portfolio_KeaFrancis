@@ -1,9 +1,9 @@
-## Lawn Mower </br>
+## Lawn Mower 
 
 <h3>Skills:</h3>
-* C++ Programming </br>
-* Arduino Sensor Integration </br>
-* UART Communication </br>
+- C++ Programming 
+- Arduino Sensor Integration 
+- UART Communication 
 
 <h3> Project Description:</h3>
 <p>The objective was to systematically mow a lawn autonomously with minimal external
