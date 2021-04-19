@@ -1,4 +1,5 @@
-<h1>CleanRobotics: TrashBot</h1></br>
+<h1>CleanRobotics: TrashBot</h1>
+<p><img src="CleanRobotics Logo.PNG" alt="foo" /></p>
 
 <h2> Description</h2>
 <p> The TrashBot is a trashcan that utilizes A.I. to sort waste, recycling, ect. <p>
@@ -10,7 +11,7 @@
 <p>* GitHub </p>
 
 <h2> Personal Role/ Contributions</h2>
-* Remote Reset Feature
+* Remote Reset Feature </br>
   <p>Allow user to reset Particle while there is a WiFi connection<p>
   
 * UART Connection
