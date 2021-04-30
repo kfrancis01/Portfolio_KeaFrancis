@@ -33,7 +33,7 @@ on smooth surfaces but had trouble on carpet. A correction we would have liked t
 
 <h4> Project III:</h4> Program sensors and motors using an Arduino. Connect Raspberry Pi to Arduino using UART.
 
-<h4> Project IV:</h4> Create a GUI to control and collect information from the Arduino through the Raspberry Pi.
+<h4> Project IV:</h4> Use Raspberry Pi for computer vision in order to recognize home base, obstacles, and curb spot.
 
 <h4> Project V:</h4> Design an Android app that can communicate with the device to schedule trash pick up dates.
 
